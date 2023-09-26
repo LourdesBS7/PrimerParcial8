@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PVZ_USFX_LAB02",
+			"Path": "C:\\Users\\hp\\Downloads\\PVZ_USFX_LAB02-master\\Source\\PVZ_USFX_LAB02.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PVZ_USFX_LAB02Editor",
+			"Path": "C:\\Users\\hp\\Downloads\\PVZ_USFX_LAB02-master\\Source\\PVZ_USFX_LAB02Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

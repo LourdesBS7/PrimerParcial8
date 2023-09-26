@@ -1,0 +1,7 @@
+C:\Users\hp\Downloads\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\hp\Downloads\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02/Plant.h
+C:\Users\hp\Downloads\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Zombie.h
+C:\Users\hp\Downloads\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Zombie.generated.h
+C:\Users\hp\Downloads\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Plant.generated.h

@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "PVZ_USFX_LAB02Editor Editor Win64 Development (PVZ_USFX_LAB02)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_PVZ_USFX_LAB02.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

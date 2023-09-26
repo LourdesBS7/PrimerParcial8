@@ -1,0 +1,107 @@
+[
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\ActorJerarquico.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\ActorJerarquico.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\CustomSceneComponent.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\CustomSceneComponent.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\Plant.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\Plant.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02.Build.cs",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02GameMode.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02GameMode.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02Pawn.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02Pawn.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02Projectile.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB02Projectile.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB0Q2GameStateBase.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\PVZ_USFX_LAB0Q2GameStateBase.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\RandomMovement.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\RandomMovement.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\Zombie.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\src_UE_ejemplos\\\\PVZ_USFX_LAB02\\\\Source\\\\PVZ_USFX_LAB02\\\\Zombie.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe @\"C:\\src_UE_ejemplos\\PVZ_USFX_LAB02\\.vscode\\compileCommands_Default\\PVZ_USFX_LAB02.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]

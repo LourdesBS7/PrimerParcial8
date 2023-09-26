@@ -1,0 +1,2 @@
+C:\Users\hp\Downloads\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\Users\hp\Downloads\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.h

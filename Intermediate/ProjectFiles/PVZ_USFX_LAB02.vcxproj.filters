@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PVZ_USFX_LAB02.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DA9E6A38-3AA3-4FDE-8075-EACEBCE13B1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PVZ_USFX_LAB02.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PVZ_USFX_LAB02Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\PVZ_USFX_LAB02.code-workspace" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{C9324287-BF9F-42A4-ADE6-628462633071}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PVZ_USFX_LAB02">
+      <UniqueIdentifier>{7D5BD6E3-2472-4624-B104-FC09C28FD5DC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\AbonoMagico.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\AbonoMagico.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\ActorJerarquico.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\ActorJerarquico.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\CustomSceneComponent.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\CustomSceneComponent.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\MegaSol.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\MegaSol.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Plant.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Plant.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Potenciador.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Potenciador.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.Build.cs">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameMode.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameMode.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Pawn.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Pawn.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Projectile.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Projectile.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB0Q2GameStateBase.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB0Q2GameStateBase.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\RandomMovement.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\RandomMovement.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\Zombie.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\Zombie.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\ZombieComun.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\ZombieComun.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\ZombieCono.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\ZombieCono.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\ZombieCubo.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\ZombieCubo.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02\ZombieSenal.cpp">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02\ZombieSenal.h">
+      <Filter>Source\PVZ_USFX_LAB02</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
